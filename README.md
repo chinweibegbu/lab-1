@@ -1,11 +1,11 @@
 # Web Technologies - Lab 1
+Chinwe Ibegbu's portfolio website created using GitHub pages. 
 
-## Contents
-This repository originally contained a single file, a script for gathering the basic configuration of the user from bash.
-
-## Technologies
+## Technologies Used
 * Windows Linux System
-* Git
-* GitHub
+* Git and GitHub Pages
 * NPM
 * NodeJS
+
+## URL
+http://chinweibegbu.github.io/lab-1
